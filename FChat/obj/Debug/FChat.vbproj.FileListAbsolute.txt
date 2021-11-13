@@ -1,0 +1,17 @@
+E:\FChat\FChat\bin\Debug\FChat.exe.config
+E:\FChat\FChat\bin\Debug\FChat.exe
+E:\FChat\FChat\bin\Debug\FChat.pdb
+E:\FChat\FChat\bin\Debug\FChat.xml
+E:\FChat\FChat\obj\Debug\FChat.Form1.resources
+E:\FChat\FChat\obj\Debug\FChat.Resources.resources
+E:\FChat\FChat\obj\Debug\FChat.vbproj.GenerateResource.Cache
+E:\FChat\FChat\obj\Debug\FChat.exe
+E:\FChat\FChat\obj\Debug\FChat.xml
+E:\FChat\FChat\obj\Debug\FChat.pdb
+E:\FChat\FChat\obj\Debug\Interop.WMPLib.dll
+E:\FChat\FChat\obj\Debug\AxInterop.WMPLib.dll
+E:\FChat\FChat\obj\Debug\FChat.vbproj.ResolveComReference.cache
+E:\FChat\FChat\bin\Debug\Interop.WMPLib.dll
+E:\FChat\FChat\bin\Debug\AxInterop.WMPLib.dll
+E:\FChat\FChat\obj\Debug\FChat.dangky.resources
+E:\FChat\FChat\obj\Debug\FChat.load2.resources
